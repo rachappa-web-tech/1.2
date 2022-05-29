@@ -20,6 +20,7 @@ const Singup=()=>{
     };
     const onsubmit=(values,props)=>{
       console.log(values);
+    
  
     };
 
